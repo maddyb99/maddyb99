@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
+Here are some quick stats about my github account!!
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api/?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_title=true" />
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" />
+
 
 <!--
 **maddyb99/maddyb99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
