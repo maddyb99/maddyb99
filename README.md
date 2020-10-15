@@ -2,9 +2,13 @@
 
 Here are some quick stats about my github account!!
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_title=true" />
+![](https://komarev.com/ghpvc/?username=maddyb99&style=flat&label=Views)
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" />
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api/?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_title=true" width='50%'/>
+ 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddyb99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=4" width='45%'/>
+
 
 
 <!--
